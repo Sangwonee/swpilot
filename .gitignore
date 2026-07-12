@@ -43,3 +43,5 @@ bin/
 
 *.xml
 .omx
+.README.md
+.idea
