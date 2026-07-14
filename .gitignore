@@ -45,3 +45,4 @@ bin/
 .omx
 **/README.md
 .idea
+*.sh
